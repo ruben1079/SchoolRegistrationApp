@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923019155833",
+    "project_id": "auth-cert",
+    "storage_bucket": "auth-cert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923019155833:android:3bfbcd64c0de547e6b77a8",
+        "android_client_info": {
+          "package_name": "com.shashank.platform.schoolcollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923019155833-crsvq77jgag4cd64lljoc0bti6ksjqjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiISqkL-oOQ4AF2Flz4Ls-fcqHVOkiOVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923019155833-crsvq77jgag4cd64lljoc0bti6ksjqjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

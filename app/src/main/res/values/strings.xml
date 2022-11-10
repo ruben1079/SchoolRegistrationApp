@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SchoolCollegeAPP</string>
+    <string name="login"><u>I already have an account , login</u></string>
+    <!--<string name="register_text"><u>Register</u></string>
+    <string name="login_text"><u>Login</u></string>-->
+
+    <string name="txt_email">E-mail</string>
+    <string name="txt_password">Password</string>
+    <string name="btn_goApp">Go App</string>
+    <string name="btn_sign_anonymous">Go Anonymous</string>
+    <string name="txt_email_link">E-mail</string>
+    <string name="btn_register_with">Register</string>
+    <string name="btn_forgot_pass">Forgot your password?</string>
+    <string name="btn_register_link">Login using email Link</string>
+    <string name="btn_sign_in_with">Sign in</string>
+    <string name="btn_google_sign">Google</string>
+    <string name="btn_facebook_sign">Facebook</string>
+    <string name="btn_github_sign">Github</string>
+<!--    <string name="btn_twitter_sign">Twitter</string>-->
+    <string name="txt_send_code">Phone number</string>
+    <string name="txt_verify_code">Code</string>
+    <string name="btn_send_code">Send code</string>
+    <string name="btn_verify_code">Verify code</string>
+
+
+    <string name="facebook_app_id">640112974249265</string>
+    <string name="fb_login_protocol_scheme">fb640112974249265</string>
+    <string name="facebook_client_token">7cd20f4f47ee28024e4707e52fa0f506</string>
+
+
+</resources>
